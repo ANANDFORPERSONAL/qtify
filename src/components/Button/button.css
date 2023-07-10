@@ -1,0 +1,9 @@
+.btn {
+  background-color: black;
+  color: #34c94b;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}

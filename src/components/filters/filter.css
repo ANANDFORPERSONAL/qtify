@@ -1,0 +1,109 @@
+.filter-container {
+    margin-top: 100px;
+    color: white !important;
+
+  }
+  
+  .tab-label {
+    color: white;
+    font-size: 10px;
+  }
+  .title {
+    color: white !important;
+    font-size: 24px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  .MuiTabs-flexContainer {
+    display: flex;
+    color: white;
+    font-weight: bold;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: green;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .grid {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  
+  }
+  
+  .heading1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .card {
+    border-radius: 10px;
+    width: 159px;
+    height: 205px;
+    margin: 10px;
+    background-color: white;
+    position: relative;
+  }
+  
+  
+  
+  
+  .card img {
+    width: 159px;
+    height: 170px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    object-fit: cover;
+  }
+  
+  .card p {
+    margin: 0;
+    color: white;
+  }
+  
+  .card-follows {
+    position: relative;
+    background-color: black;
+    color: white;
+    padding: 1px 8px 4px 8px;
+    border-radius: 10px;
+    font-size: 11px;
+    width: 90px;
+    height: 17px;
+    left: 8px;
+    bottom: 6px;
+  }
+  
+  .card-title {
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 0;
+    color: white;
+    background-color: #121212;
+  }
+  
+  .headingSub {
+    cursor: pointer;
+    color: green;
+    margin-left: 1150px;
+  }
+  .heading1 {
+    margin-bottom: 10px;
+  }
+  
+  
